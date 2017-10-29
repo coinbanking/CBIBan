@@ -2,7 +2,7 @@
 
 Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with CBIban.
 
-![CBIban hero image](https://raw.githubusercontent.com/IBAnimatable/IBAnimatable-Misc/master/IBAnimatable/CBIban.gif)
+![CBIban hero image](https://raw.githubusercontent.com/IBAnimatable/IBAnimatable-Misc/master/IBAnimatable/IBAnimatable.gif)
 
 [![Build Status](https://travis-ci.org/CBIban/CBIban.svg?branch=master)](https://travis-ci.org/CBIban/CBIban)
 [![Language](https://img.shields.io/badge/language-Swift%204.0-orange.svg)](https://swift.org)
